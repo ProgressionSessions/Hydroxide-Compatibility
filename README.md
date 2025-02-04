@@ -1,28 +1,9 @@
-## Script
-```lua
-local owner = "Upbolt"
-local branch = "revision"
-
-local function webImport(file)
-    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
-end
-
-webImport("init")
-webImport("ui/main")
-```
-
-# Hydroxide
-<i>Lua runtime introspection and network capturing tool for games on the Roblox engine.</i>
-
-~~Report issues to our Discord server: https://discord.gg/DJxBwAX~~
-
-<ins>New Discord server will be established when the next major release is ready for use</ins>
-
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
-    </br>
-    <img src="https://raw.githubusercontent.com/Upbolt/Hydroxide/revision/github-assets/ui.png" width="677px"/>
+    <img src="blob:https://github.com/060dd69d-a6b8-4757-9246-64fd4d1e04b6"/>
 </p>
+# Hydroxide Compatibility Edition
+<i>Lua runtime introspection and network capturing tool for games on the Roblox engine. Purposefully designed to support & function correctly on code IDE's with low UNC/sUNC Support.</i>
+<b>Want to report a bug or suggest a feature?</b> Join the discord server: Https://discord.progressionsoftworks.dev
 
 ## Features
 * Upvalue Scanner
