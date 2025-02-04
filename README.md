@@ -1,7 +1,9 @@
 <p align="center">
-    <img src="blob:https://github.com/060dd69d-a6b8-4757-9246-64fd4d1e04b6"/>
+    <img src="https://raw.githubusercontent.com/ProgressionSessions/Hydroxide-Compatibility/refs/heads/revision/hydrox_comp.png"/>
 </p>
+
 # Hydroxide Compatibility Edition
+
 <i>Lua runtime introspection and network capturing tool for games on the Roblox engine. Purposefully designed to support & function correctly on code IDE's with low UNC/sUNC Support.</i>
 <b>Want to report a bug or suggest a feature?</b> Join the discord server: Https://discord.progressionsoftworks.dev
 
